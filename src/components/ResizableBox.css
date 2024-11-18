@@ -1,0 +1,10 @@
+/* src/components/ResizableBox.css */
+.resize-handle {
+  width: 10px;
+  height: 100%;
+  background-color: #ddd;
+  cursor: ew-resize;
+  position: absolute;
+  right: 0;
+  top: 0;
+}

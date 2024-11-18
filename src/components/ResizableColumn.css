@@ -1,0 +1,9 @@
+.resizer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 10px; /* Width of the resizer handle */
+  height: 100%;
+  cursor: ew-resize;
+  background-color: transparent; /* Make it invisible or set a color to make it visible */
+}
